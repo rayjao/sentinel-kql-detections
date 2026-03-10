@@ -1,4 +1,4 @@
-# sentinel-kql-detections
+# Sentinel-kql-detections
 
 A collection of custom KQL queries built for Microsoft Sentinel targeting real-world attack patterns. These are written from hands-on experience working in a hybrid IT/Security role — managing CrowdStrike, Microsoft 365, Entra ID, and email security daily. Each query maps to a MITRE ATT&CK technique and is built around log sources you'll actually have in a standard M365/Azure environment.
 
